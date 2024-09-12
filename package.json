@@ -22,6 +22,7 @@
     "drizzle-orm": "^0.32.0",
     "emoji-picker-react": "^4.9.2",
     "framer-motion": "^11.3.2",
+    "llamaai": "^1.0.4",
     "lucide-react": "^0.371.0",
     "moment": "^2.30.1",
     "next": "14.2.2",
